@@ -1,14 +1,22 @@
 # 📊 SQL E-commerce Analysis (SQLite)
 
+## 💼 Problema de Negócio
+
+Este projeto busca analisar dados de um e-commerce para entender:
+
+* distribuição de receita
+* comportamento dos clientes
+* eficiência da entrega
+
 ## 🎯 Objetivo
 
-Este projeto tem como objetivo praticar consultas SQL utilizando um banco de dados real de e-commerce, explorando métricas básicas de negócio.
+Praticar consultas SQL em um banco de dados real, explorando métricas básicas de negócio e desenvolvendo raciocínio analítico.
 
 ## 📚 Contexto
 
 Sou estudante de Data Science pela Alura e este projeto faz parte da minha jornada de aprendizado prático.
 
-Meu foco é desenvolver habilidades com dados reais e evoluir para atuar profissionalmente na área.
+Meu foco é ganhar experiência com dados reais, desenvolver consistência técnica e evoluir para o mercado de trabalho na área de dados.
 
 ## 🤖 Uso de Inteligência Artificial
 
@@ -18,18 +26,11 @@ Utilizei Inteligência Artificial como ferramenta de apoio para:
 * revisar consultas SQL
 * melhorar a clareza das análises
 
-Todo o conteúdo foi estudado e compreendido como parte do meu processo de aprendizado.
+Todo o conteúdo foi estudado e compreendido por mim como parte do processo de aprendizado.
 
 ## 🗃️ Dataset
 
-O projeto utiliza o Brazilian E-Commerce Public Dataset (Olist), que contém aproximadamente 100 mil pedidos realizados entre 2016 e 2018.
-
-Os dados incluem:
-
-* clientes
-* pedidos
-* pagamentos
-* entregas
+O projeto utiliza o Brazilian E-Commerce Public Dataset (Olist), contendo aproximadamente 100 mil pedidos realizados entre 2016 e 2018.
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -40,23 +41,23 @@ Os dados incluem:
 
 ## 📊 Análises realizadas
 
-* Receita total
+* Receita total da plataforma
 * Receita por estado
 * Tempo médio de entrega
-* Clientes com mais pedidos
+* Clientes com maior número de pedidos
 
 ## 💡 Principais aprendizados
 
 * Uso de JOIN para combinar tabelas
 * Aplicação de funções agregadas (SUM, AVG, COUNT)
-* Consulta em banco SQLite
+* Consulta de dados em banco SQLite
 * Estruturação de análise em notebook
 
 ## 📈 Insights
 
-* A receita está concentrada em determinados estados (principalmente São Paulo)
-* Existem clientes com comportamento recorrente
-* O tempo de entrega é um fator importante para a experiência do cliente
+* A receita está concentrada em determinados estados, com destaque para São Paulo
+* Existem clientes com comportamento recorrente, indicando potencial de fidelização
+* O tempo de entrega pode impactar a experiência do cliente e a satisfação
 
 ## 🚀 Próximos passos
 
@@ -66,4 +67,7 @@ Os dados incluem:
 
 ## 📌 Observação
 
-Este é um projeto de estudo com foco em aprendizado contínuo e desenvolvimento profissional na área de dados.
+Este é um projeto de estudo com foco em evolução contínua na área de dados.
+
+As análises realizadas têm como objetivo desenvolver habilidades práticas e entendimento de dados reais.
+
