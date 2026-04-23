@@ -1,23 +1,26 @@
-# 📊 Análise de E-commerce com SQL (SQLite)
+# 📊 SQL E-commerce Analysis (SQLite)
 
 ## 💼 Problema de Negócio
-Analisar dados de um e-commerce para entender padrões de receita, comportamento dos clientes e eficiência da entrega.
+
+Este projeto busca analisar dados de um e-commerce para entender:
 
 * distribuição de receita
 * comportamento dos clientes
 * eficiência da entrega
 
 ## 🎯 Objetivo
-Aplicar consultas SQL em um banco de dados real para extrair insights básicos de negócio.
+
+Praticar consultas SQL em um banco de dados real, explorando métricas básicas de negócio e desenvolvendo raciocínio analítico.
 
 ## 📚 Contexto
-Projeto desenvolvido durante meus estudos em Data Science pela Alura.
+
+Sou estudante de Data Science pela Alura e este projeto faz parte da minha jornada de aprendizado prático.
 
 Meu foco é ganhar experiência com dados reais, desenvolver consistência técnica e evoluir para o mercado de trabalho na área de dados.
 
 ## 🤖 Uso de Inteligência Artificial
 
-Utilizei Inteligência Artificial como apoio para organização e revisão das análises, garantindo entendimento durante o processo.
+Utilizei Inteligência Artificial como ferramenta de apoio para:
 
 * organizar a estrutura do projeto
 * revisar consultas SQL
@@ -67,4 +70,3 @@ O projeto utiliza o Brazilian E-Commerce Public Dataset (Olist), contendo aproxi
 Este é um projeto de estudo com foco em evolução contínua na área de dados.
 
 As análises realizadas têm como objetivo desenvolver habilidades práticas e entendimento de dados reais.
-
